@@ -4,7 +4,7 @@
 *
 * Template : Braintech - Technology & IT Solutions HTML Template
 * Author : rs-theme
-* Author URI : http://www.rstheme.com/
+* Author URI : http://www.Walacode.com/
 *
 * -----------------------------------------------------------------------------
 *
