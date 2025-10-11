@@ -2,7 +2,7 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : Braintech - IT Solutions and Technology Startup HTML Template
+* Template : Systemide - Build. Scale. Succeed.
 * Author : rs-theme
 * Author URI : http://www.Walacode.com/
 *
